@@ -3,7 +3,7 @@
 
   "name": "WikiPedia to WikiZero",
   "description": "This extension allows the user to access the wikipedia from restricted countries.",
-  "version": "1.0",
+  "version": "0.1",
 
   "browser_action": {
     "default_icon": {
